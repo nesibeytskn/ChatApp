@@ -8,7 +8,7 @@
    
    Projemde bottom tab ve navigation stack ile sayfalar arası geçişi sağlaadım 
    
-    </p>
+</p>
 
 
     ![](assets/chatapp.gif)
